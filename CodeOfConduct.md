@@ -27,7 +27,7 @@ We humbly ask that you respect different viewpoints on technical decisions, keep
 
 - Harassment includes but is not restricted to, negative or discriminatory verbal or written remarks about gender identity, sexual orientation, handicap, ethnicity, religion, age, physical appearance, body size, or other similar personal attributes. Along with inappropriate use of nudity, sexual imagery, or sexually explicit language in public places, it also includes deliberate intimidation, stalking, following, harassing photography, or recording, persistent disruption of conversations or events, inappropriate physical contact, and unwanted sexual attention.
 
-## *Acceptable Coontents*
+## *Acceptable Contents*
 
 The DevRel Community Africa administrators have the authority to determine what published content is appropriate and what is not. You can successfully navigate our community by following the advice below:
 
