@@ -39,6 +39,6 @@ The DevRel Community Africa administrators have the authority to determine what 
 ## *Reporting Violations of this Code of Conduct*
 Please get in touch with one of the admins on the list if you feel someone is harassing you or has broken the Code of Conduct. Please be as specific as possible when reporting issues for the first time. When we have enough context, solving difficulties becomes simpler for us.
 
-Admins @seunbayo and @coderblack
+Admins [@SeunbayoNg](https://www.twitter.com/SeunbayoNg) and [@coder_blvck](https://www.twitter.com/coder_blvck)
 
 **_Please let the admin team know if you feel that you have been unfairly or unjustly accused of breaking this Code of Conduct by getting in touch with one of the admins mentioned below. We'll try our hardest to handle your complaint properly. We will generally take the course of action that best promotes a welcoming and safe community._**
